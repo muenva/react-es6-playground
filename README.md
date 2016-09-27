@@ -7,6 +7,7 @@
 
 ## Setup
 In command prompt
+0. Go the folder you like to have the project installed
 
 1. `git clone https://github.com/muenva/react-es6-playground.git`
 
