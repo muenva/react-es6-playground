@@ -16,7 +16,8 @@ In command prompt
 
 3. `npm start`
 
-```import { createStore, applyMiddleware } from 'redux'
+```
+import { createStore, applyMiddleware } from 'redux'
 import thunkMiddleware from 'redux-thunk'
 import createLogger from 'redux-logger'
 import rootReducer from './reducer'
@@ -32,5 +33,6 @@ export default function configureStore (preloadedState) {
       loggerMiddleware
     )
   )
-}```
+}
+```
 
