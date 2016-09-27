@@ -7,6 +7,9 @@
 
 ## Setup
 In command prompt
-`git clone https://github.com/muenva/react-es6-playground.git`
-`npm install`
-`npm start`
+
+1. `git clone https://github.com/muenva/react-es6-playground.git`
+
+2. `npm install`
+
+3. `npm start`
