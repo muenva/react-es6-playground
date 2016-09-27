@@ -1,0 +1,12 @@
+> React ES6 Playground
+
+## Prerequisites
+- [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows)
+- [Installed Node.js](https://nodejs.org/en/)
+- Your favourite IDE (or [Atom](https://atom.io/))
+
+## Setup
+In command prompt
+`git clone https://github.com/muenva/react-es6-playground.git`
+`npm install`
+`npm start`
