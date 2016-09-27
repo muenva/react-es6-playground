@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "test": "karma start karma.conf.js",
-    "start": "npm run server",
+    "start": "webpack-dev-server --progress --inline --hot --port 1337",
     "bundle": "webpack --watch --config webpack.config.js",
     "server": "node webpack.server.js"
   },
