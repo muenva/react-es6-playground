@@ -23,8 +23,7 @@ const kids = [
   { name: 'Bunny Lockley', gender: 'female', age: 5 }
 ]
 
-
-
+// This is what we're looking for
 const result = 'My result'
 
 export default result
